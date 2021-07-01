@@ -1,6 +1,6 @@
 ### Working with Google Cloud client libraries
 
-- [query-spanner-with-java](https://github.com/j143/query-spanner-with-java)
+- [query-spanner-with-java](https://github.com/j143/query-spanner-with-java) (includes github actions setup for continuous testing)
 - [datastore-python-ci](https://github.com/j143/datastore-python-ci)
 
 ### Machine Learning and Data science System
