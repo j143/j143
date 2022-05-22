@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+
+```mermaid
+sequenceDiagram
+    participant dotcom
+    participant iframe
+    participant viewscreen
+    dotcom->>iframe: loads html w/ iframe url
+    iframe->>viewscreen: request template
+    viewscreen->>iframe: html & javascript
+    iframe->>dotcom: iframe ready
+    dotcom->>iframe: set mermaid data on iframe
+    iframe->>iframe: render mermaid
+```
+
 <!--
 **j143/j143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
