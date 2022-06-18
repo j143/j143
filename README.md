@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+💚 [`My Spotify playlist - Melancholy`](https://open.spotify.com/playlist/2FDrCxYyZYowENyf6ztMGG)
 
+#### New github features:
 ```mermaid
 sequenceDiagram
     participant dotcom
