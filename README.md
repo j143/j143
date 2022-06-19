@@ -2,6 +2,9 @@
 
 💚 [`My Spotify playlist - Melancholy`](https://open.spotify.com/playlist/2FDrCxYyZYowENyf6ztMGG)
 
+I mostly work with Java, Bash, Kubernetes.
+
+<!--
 #### New github features:
 ```mermaid
 sequenceDiagram
@@ -20,6 +23,8 @@ also, some code
 
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+-->
 
 <!--
 **j143/j143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
