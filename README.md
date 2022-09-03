@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-💚 [`My Spotify playlist - Melancholy`](https://open.spotify.com/playlist/2FDrCxYyZYowENyf6ztMGG)
-
 I mostly work with Java, Bash, Kubernetes.
+
+Few articles:
+
+- https://i.janardhanpulivarthi.com/season-2/bashrc-and-bash_profile
+- https://i.janardhanpulivarthi.com/season-2/core-file
+- https://i.janardhanpulivarthi.com/season-2/build-linux-kernel
 
 <!--
 #### New github features:
