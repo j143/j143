@@ -2,11 +2,11 @@
 
 I mostly work with Java, Bash, Kubernetes.
 
-Few articles:
+**I occasionally write some articles:**
 
-- https://i.janardhanpulivarthi.com/season-2/bashrc-and-bash_profile
-- https://i.janardhanpulivarthi.com/season-2/core-file
-- https://i.janardhanpulivarthi.com/season-2/build-linux-kernel
+- [`Difference b/w bashrc and bash_profile`](https://i.janardhanpulivarthi.com/season-2/bashrc-and-bash_profile)
+- [`What is a core file`](https://i.janardhanpulivarthi.com/season-2/core-file)
+- [`How to build a linux kernel`](https://i.janardhanpulivarthi.com/season-2/build-linux-kernel)
 
 <!--
 #### New github features:
