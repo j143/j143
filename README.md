@@ -1,46 +1,39 @@
-### Hi there 👋
+# Janardhan Pulivarthi
 
-I mostly work with Java, Bash, Kubernetes.
+> Systems engineer
 
-**I occasionally write some articles:**
+---
 
-- [`Difference b/w bashrc and bash_profile`](https://i.janardhanpulivarthi.com/season-2/bashrc-and-bash_profile)
-- [`What is a core file`](https://i.janardhanpulivarthi.com/season-2/core-file)
-- [`How to build a linux kernel`](https://i.janardhanpulivarthi.com/season-2/build-linux-kernel)
+### 🛠️ Tech I’m hands-on with
+- **Languages:** Java, Bash, Python (for tooling)
+- **Infra & Platforms:** Kubernetes, Calico, Istio, Envoy, Jenkins
+- **Systems:** Linux internals, kernel build, networking (Layer 3/4), BPF, Git plumbing
 
-<!--
-#### New github features:
-```mermaid
-sequenceDiagram
-    participant dotcom
-    participant iframe
-    participant viewscreen
-    dotcom->>iframe: loads html w/ iframe url
-    iframe->>viewscreen: request template
-    viewscreen->>iframe: html & javascript
-    iframe->>dotcom: iframe ready
-    dotcom->>iframe: set mermaid data on iframe
-    iframe->>iframe: render mermaid
-```
+---
 
-also, some code
+### 🧩 OSS Contributions
+I contribute upstream fixes, test improvements, and build cleanups to core open-source infrastructure projects.
 
-**The Cauchy-Schwarz Inequality**
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+- [Apache](https://github.com/apache) – Release management, System Internals, Test cleanup, minor bug fixes
+- [TensorFlow](https://github.com/tensorflow/models) – minor bug fixes 
+- [libgit2](https://github.com/libgit2/libgit2) – tests
+- [Others](https://github.com/pulls?q=is%3Apr+author%3Aj143+is%3Aclosed) – Subtle PRs to CLI tools, runners, and build infra
 
--->
+> I'm more interested in **fixing quietly** than chasing stars. Small PRs. High signal.
 
-<!--
-**j143/j143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ✍️ I also write sometimes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 [`.bashrc` vs `.bash_profile`](https://i.janardhanpulivarthi.com/season-2/bashrc-and-bash_profile)
+- 💥 [What is a core file](https://i.janardhanpulivarthi.com/season-2/core-file)
+- 🧬 [How to build a Linux kernel](https://i.janardhanpulivarthi.com/season-2/build-linux-kernel)
+
+
+---
+
+### 🧭 Currently exploring
+- Network observability & service mesh behavior
+- BPF + iptables at scale
+- Building tools that live well in infra
+- Writing cleaner CLIs & internal docs
